@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Obectives of the Experiment}{2}{}%
+\contentsline {section}{\numberline {3}Experimental Process}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Binary Search}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Gradient Descent}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Newton Method}{6}{}%
+\contentsline {section}{\numberline {4}Results and Analysis}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Horizontal Comparision}{7}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Fix Dimension $n = 10$}{8}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Discussion on Dimension $n$}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Vertical Comparision}{12}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Binary Search}{12}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Gradient Descent Method}{13}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Newton Method}{14}{}%
+\contentsline {subsection}{\numberline {4.3}Visualization of Iteration Process}{14}{}%
+\contentsline {section}{\numberline {5}Conclusion}{16}{}%
